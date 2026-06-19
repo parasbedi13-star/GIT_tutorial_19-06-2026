@@ -25,6 +25,7 @@ managed_by = each.value.managed_by
 }
 
 rg_details = {
+
 RG-1 = {name = "Zain01" , location = "Centralindia" , managed_by = "Bedi"}
 RG-2 = {name = "Zain02" , location = "westus" , managed_by = "devraj"}
 RG-3 = {name = "Zain03" , location = "eastus" , managed_by = "satinder"}
